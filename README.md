@@ -1,11 +1,17 @@
-#  thigastech
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FA8072&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
+  </a>
+</div>
 
-**`Dev Backend`**
+## **`Dev Backend`**
 
-Me chamo Thiago, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no colégio ENIAC, com o curso técnico em Engenharia/TI. Atualmente, estou cursando Ciência da Computação. Sou apaixonado por tecnologia e sempre busco evoluir no cenário utilizando novas ferramentas, IDEs e etc.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 My Stack
 
 <img 
     align="left" 
@@ -59,5 +65,11 @@ Me chamo Thiago, tenho 20 anos e sou natural de São Paulo. Concluí o ensino m�
 <br/>
 <br/>
 
+#
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
