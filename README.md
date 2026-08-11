@@ -4,10 +4,9 @@
   </a>
 </div>
 
-## **`Dev Backend`**
+## **`ThigasTech Dev Backend`**
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Me chamo Thiago, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no ENIAC, com o curso técnico em Engenharia/TI. Atualmente, estou cursando Ciência da Computação na faculdade UNICSUL. Sou apaixonado por tecnologia e sempre busco melhorar meus conhecimentos e aprender novas ferramentas, IDEs e criar novos projetos. 
   
 
 
@@ -72,4 +71,3 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
