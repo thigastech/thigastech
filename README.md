@@ -4,9 +4,25 @@
   </a>
 </div>
 
-## **`ThigasTech Dev Backend`**
+## `thigastech.dev`<br><br>**Computer Science Student | Software Development | AI & Machine Learning**
 
-<p align="center">Me chamo Thiago, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no ENIAC, com o curso técnico em Engenharia/TI. Atualmente, estou cursando Ciência da Computação na faculdade UNICSUL. Sou apaixonado por tecnologia e sempre busco melhorar meus conhecimentos e aprender novas ferramentas, IDEs e criar novos projetos. 
+
+
+Computer Science student with a technical background in **Engineering/IT**, currently focused on software development and practical applications of **Artificial Intelligence, Machine Learning, LLMs, and automation**. Interested in building projects, solving real-world problems, and continuously developing technical skills through hands-on experience.
+
+**This GitHub is a collection of my projects, experiments, studies, and things I'm learning throughout my journey as a developer.**<br>
+<p align="center">"Learning by building, improving through practice."
+
+---
+
+## Areas of Interest
+
+- Software Development
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Automation
+
   
 
 
@@ -90,6 +106,16 @@
 
 <br/>
 <br/>
+
+## Projects
+
+A collection of personal projects, experiments, and studies focused on software development, automation, and AI-driven solutions.
+
+
+## Career
+
+### Technology Intern - Brazilian Federal Government
+CRECI-SP / Software Development · 2026 – Present
 
 #
 
