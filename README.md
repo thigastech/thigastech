@@ -104,6 +104,15 @@ Computer Science student with a technical background in **Engineering/IT**, curr
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
 <br/>
 <br/>
 
