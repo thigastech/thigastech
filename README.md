@@ -8,7 +8,7 @@
 
 
 
-Computer Science student with a technical background in **Engineering/IT**, currently focused on software development and practical applications of **Artificial Intelligence, Machine Learning, LLMs, and automation**. Interested in building projects, solving real-world problems, and continuously developing technical skills through hands-on experience.
+Computer Science student with a technical background in **Engineering/IT**, currently focused on software development and practical applications of **Artificial Intelligence, Machine Learning, LLMs, and AI Security**. Interested in building projects, solving real-world problems, and continuously developing technical skills through hands-on experience.
 
 **This GitHub is a collection of my projects, experiments, studies, and things I'm learning throughout my journey as a developer.**<br>
 <p align="center">"Learning by building, improving through practice."
@@ -22,6 +22,7 @@ Computer Science student with a technical background in **Engineering/IT**, curr
 - Machine Learning
 - Large Language Models (LLMs)
 - Automation
+- **AI Security**
 
   
 
